@@ -9,4 +9,4 @@ You can change your computer's volume based on your hand activity.
   
   pip install -r requirements.txt
   
-* run the *GestureVolControl.py file
+* run the *GestureVolControl.py* file
