@@ -11,4 +11,4 @@ You can change your computer's volume based on your hand activity.
   
 * Run the *GestureVolControl.py* file 
   
-  <code>GestureVolControl.py</code>
+  <code>python GestureVolControl.py</code>
