@@ -5,7 +5,7 @@ you can change your computer's volume based on your hand activity.
 
 * All you have to do is clone this repositry in your computer:
   
-  < git clone https://github.com/Diwas524/Volume-Control-using-gesture.git
+  git clone https://github.com/Diwas524/Volume-Control-using-gesture.git
 
 * Install all the requirements
 
