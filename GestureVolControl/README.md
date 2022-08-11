@@ -7,6 +7,6 @@ You can change your computer's volume based on your hand activity.
 
 * Install all the requirements
   
-  pip install -r requirements.txt
+  <code>pip install -r requirements.txt</code>
   
 * Run the *GestureVolControl.py* file
